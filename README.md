@@ -9,7 +9,7 @@ Welcome to the Amazon Clone project! This is a frontend web application that rep
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -48,7 +48,5 @@ Once the project is set up, you can interact with the homepage just like you wou
 ## Screenshots
 ![image alt](https://github.com/Himanshu-Toshniwal/Amazon-Clone/blob/65a5b1ed53a919ec2224852b20940bd5521bd0f4/amazon%20pictures.png)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
