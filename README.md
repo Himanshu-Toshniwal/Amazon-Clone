@@ -46,8 +46,7 @@ To run this project locally:
 Once the project is set up, you can interact with the homepage just like you would on the actual Amazon website. Use the navigation bar to search, browse through product categories, and explore different product deals using the sliders.
 
 ## Screenshots
-
-
+![image alt](https://github.com/Himanshu-Toshniwal/Amazon-Clone/blob/65a5b1ed53a919ec2224852b20940bd5521bd0f4/amazon%20pictures.png)
 
 ## License
 
